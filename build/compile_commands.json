@@ -1,0 +1,67 @@
+[
+{
+  "directory": "D:/project/vessel/build",
+  "command": "D:\\software\\path\\MinGW\\mingw64\\bin\\g++.exe -DDEBUG -DH5_BUILT_AS_DYNAMIC_LIB -DLION_UTILS_EXPORTS -DLZ4_DLL_IMPORT=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -DvtkRenderingCore_AUTOINIT=3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2) @CMakeFiles/LION_UTILS.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\LION_UTILS.dir\\LION_UTILS_autogen\\mocs_compilation.cpp.obj -c D:\\project\\vessel\\build\\LION_UTILS_autogen\\mocs_compilation.cpp",
+  "file": "D:/project/vessel/build/LION_UTILS_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "D:/project/vessel/build",
+  "command": "D:\\software\\path\\MinGW\\mingw64\\bin\\g++.exe -DDEBUG -DH5_BUILT_AS_DYNAMIC_LIB -DLION_UTILS_EXPORTS -DLZ4_DLL_IMPORT=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -DvtkRenderingCore_AUTOINIT=3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2) @CMakeFiles/LION_UTILS.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\LION_UTILS.dir\\utils\\IO\\reader.cpp.obj -c D:\\project\\vessel\\utils\\IO\\reader.cpp",
+  "file": "D:/project/vessel/utils/IO/reader.cpp"
+},
+{
+  "directory": "D:/project/vessel/build",
+  "command": "D:\\software\\path\\MinGW\\mingw64\\bin\\g++.exe -DDEBUG -DH5_BUILT_AS_DYNAMIC_LIB -DLION_UTILS_EXPORTS -DLZ4_DLL_IMPORT=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -DvtkRenderingCore_AUTOINIT=3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2) @CMakeFiles/LION_UTILS.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\LION_UTILS.dir\\utils\\IO\\transfer.cpp.obj -c D:\\project\\vessel\\utils\\IO\\transfer.cpp",
+  "file": "D:/project/vessel/utils/IO/transfer.cpp"
+},
+{
+  "directory": "D:/project/vessel/build",
+  "command": "D:\\software\\path\\MinGW\\mingw64\\bin\\g++.exe -DDEBUG -DH5_BUILT_AS_DYNAMIC_LIB -DLION_UTILS_EXPORTS -DLZ4_DLL_IMPORT=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -DvtkRenderingCore_AUTOINIT=3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2) @CMakeFiles/LION_UTILS.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\LION_UTILS.dir\\utils\\display\\shower.cpp.obj -c D:\\project\\vessel\\utils\\display\\shower.cpp",
+  "file": "D:/project/vessel/utils/display/shower.cpp"
+},
+{
+  "directory": "D:/project/vessel/build",
+  "command": "D:\\software\\path\\MinGW\\mingw64\\bin\\g++.exe -DDEBUG -DH5_BUILT_AS_DYNAMIC_LIB -DLION_UTILS_EXPORTS -DLZ4_DLL_IMPORT=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -DvtkRenderingCore_AUTOINIT=3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2) @CMakeFiles/LION_UTILS.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\LION_UTILS.dir\\utils\\display\\vtkViewer.cpp.obj -c D:\\project\\vessel\\utils\\display\\vtkViewer.cpp",
+  "file": "D:/project/vessel/utils/display/vtkViewer.cpp"
+},
+{
+  "directory": "D:/project/vessel/build",
+  "command": "D:\\software\\path\\MinGW\\mingw64\\bin\\g++.exe -DDEBUG -DH5_BUILT_AS_DYNAMIC_LIB -DLION_UTILS_EXPORTS -DLZ4_DLL_IMPORT=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -DvtkRenderingCore_AUTOINIT=3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2) @CMakeFiles/LION_UTILS.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\LION_UTILS.dir\\utils\\display\\vtkSliceViewer.cpp.obj -c D:\\project\\vessel\\utils\\display\\vtkSliceViewer.cpp",
+  "file": "D:/project/vessel/utils/display/vtkSliceViewer.cpp"
+},
+{
+  "directory": "D:/project/vessel/build",
+  "command": "D:\\software\\path\\MinGW\\mingw64\\bin\\g++.exe -DDEBUG -DH5_BUILT_AS_DYNAMIC_LIB -DLION_UTILS_EXPORTS -DLZ4_DLL_IMPORT=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -DvtkRenderingCore_AUTOINIT=3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2) @CMakeFiles/LION_UTILS.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\LION_UTILS.dir\\utils\\display\\vtkVolumeViewer.cpp.obj -c D:\\project\\vessel\\utils\\display\\vtkVolumeViewer.cpp",
+  "file": "D:/project/vessel/utils/display/vtkVolumeViewer.cpp"
+},
+{
+  "directory": "D:/project/vessel/build",
+  "command": "D:\\software\\path\\MinGW\\mingw64\\bin\\g++.exe -DDEBUG -DH5_BUILT_AS_DYNAMIC_LIB -DLION_UTILS_EXPORTS -DLZ4_DLL_IMPORT=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -DvtkRenderingCore_AUTOINIT=3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2) @CMakeFiles/LION_UTILS.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\LION_UTILS.dir\\utils\\observer\\vtkPointPickCallback.cpp.obj -c D:\\project\\vessel\\utils\\observer\\vtkPointPickCallback.cpp",
+  "file": "D:/project/vessel/utils/observer/vtkPointPickCallback.cpp"
+},
+{
+  "directory": "D:/project/vessel/build",
+  "command": "D:\\software\\path\\MinGW\\mingw64\\bin\\g++.exe -DDEBUG -DH5_BUILT_AS_DYNAMIC_LIB -DLION_GUI_EXPORTS -DLZ4_DLL_IMPORT=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -DvtkRenderingCore_AUTOINIT=3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2) @CMakeFiles/LION_GUI.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\LION_GUI.dir\\LION_GUI_autogen\\mocs_compilation.cpp.obj -c D:\\project\\vessel\\build\\LION_GUI_autogen\\mocs_compilation.cpp",
+  "file": "D:/project/vessel/build/LION_GUI_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "D:/project/vessel/build",
+  "command": "D:\\software\\path\\MinGW\\mingw64\\bin\\g++.exe -DDEBUG -DH5_BUILT_AS_DYNAMIC_LIB -DLION_GUI_EXPORTS -DLZ4_DLL_IMPORT=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -DvtkRenderingCore_AUTOINIT=3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2) @CMakeFiles/LION_GUI.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\LION_GUI.dir\\gui\\dialog.cpp.obj -c D:\\project\\vessel\\gui\\dialog.cpp",
+  "file": "D:/project/vessel/gui/dialog.cpp"
+},
+{
+  "directory": "D:/project/vessel/build",
+  "command": "D:\\software\\path\\MinGW\\mingw64\\bin\\g++.exe -DDEBUG -DH5_BUILT_AS_DYNAMIC_LIB -DLION_GUI_EXPORTS -DLZ4_DLL_IMPORT=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -DvtkRenderingCore_AUTOINIT=3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2) @CMakeFiles/LION_GUI.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\LION_GUI.dir\\gui\\mainwindow.cpp.obj -c D:\\project\\vessel\\gui\\mainwindow.cpp",
+  "file": "D:/project/vessel/gui/mainwindow.cpp"
+},
+{
+  "directory": "D:/project/vessel/build",
+  "command": "D:\\software\\path\\MinGW\\mingw64\\bin\\g++.exe -DDEBUG -DH5_BUILT_AS_DYNAMIC_LIB -DLZ4_DLL_IMPORT=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -DvtkRenderingCore_AUTOINIT=3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2) @CMakeFiles/LION.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\LION.dir\\LION_autogen\\mocs_compilation.cpp.obj -c D:\\project\\vessel\\build\\LION_autogen\\mocs_compilation.cpp",
+  "file": "D:/project/vessel/build/LION_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "D:/project/vessel/build",
+  "command": "D:\\software\\path\\MinGW\\mingw64\\bin\\g++.exe -DDEBUG -DH5_BUILT_AS_DYNAMIC_LIB -DLZ4_DLL_IMPORT=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -DvtkRenderingCore_AUTOINIT=3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2) @CMakeFiles/LION.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\LION.dir\\main.cpp.obj -c D:\\project\\vessel\\main.cpp",
+  "file": "D:/project/vessel/main.cpp"
+}
+]

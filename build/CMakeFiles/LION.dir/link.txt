@@ -1,0 +1,3 @@
+D:\software\path\CMake\bin\cmake.exe -E rm -f CMakeFiles\LION.dir/objects.a
+D:\software\path\MinGW\mingw64\bin\ar.exe qc CMakeFiles\LION.dir/objects.a @CMakeFiles\LION.dir\objects1.rsp
+D:\software\path\MinGW\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\LION.dir/objects.a -Wl,--no-whole-archive -o LION.exe -Wl,--out-implib,libLION.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\LION.dir\linklibs.rsp

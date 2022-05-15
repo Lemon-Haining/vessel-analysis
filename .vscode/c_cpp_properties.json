@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "name": "windows-gcc-x64",
+            "includePath": [
+                "${workspaceFolder}/utils/IO",
+                "${workspaceFolder}/utils/display",
+                "${workspaceFolder}/utils/observer",
+                "${workspaceFolder}/gui",
+                "D:/software/path/C++Package/ITK/itk-5.1.2-install-MinGW-x64-Release/include/ITK-5.1",
+                "D:/software/path/C++Package/VTK/VTK-8.2.0-install-MinGW-x64-Release/include/vtk-8.2",
+                "D:/software/path/C++Package/Eigen/eigen-3.4.0-install-MinGW-x64-Release/include/eigen3/**",
+                "D:/software/path/C++Package/OpenCV/opencv-4.5.5-install-MinGW-x64-Release/include",
+                "D:/software/path/C++Package/OpenCV/opencv-4.5.5-install-MinGW-x64-Release/include/opencv2",
+                "D:/software/path/Qt/Qt5.14.2/5.14.2/msvc2017_64/include/**",
+                "${workspaceFolder}/build/LION_GUI_autogen/include"
+            ],
+            "compilerPath": "D:/software/path/MinGW/mingw64/bin/gcc.exe",
+            "cStandard": "${default}",
+            "cppStandard": "${default}",
+            "intelliSenseMode": "windows-gcc-x64",
+            "compilerArgs": []
+        }
+    ],
+    "version": 4
+}

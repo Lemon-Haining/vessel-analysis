@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "LION",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "LION::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LION-Debug-36a2da9398be314bf3e8.json",
+					"name" : "LION",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LION_GUI::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LION_GUI-Debug-12cea93553ae0e1a864e.json",
+					"name" : "LION_GUI",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LION_GUI_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LION_GUI_autogen-Debug-1d6577b851d57c0194b8.json",
+					"name" : "LION_GUI_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LION_UTILS::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LION_UTILS-Debug-16d93a2a4447ce33d136.json",
+					"name" : "LION_UTILS",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LION_UTILS_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LION_UTILS_autogen-Debug-c5e2451c2b9567eec383.json",
+					"name" : "LION_UTILS_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LION_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LION_autogen-Debug-a9240c146a15297be0cc.json",
+					"name" : "LION_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/project/vessel/build",
+		"source" : "D:/project/vessel"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -1,0 +1,8 @@
+D:/project/vessel/build/CMakeFiles/LION_UTILS.dir
+D:/project/vessel/build/CMakeFiles/LION_GUI.dir
+D:/project/vessel/build/CMakeFiles/LION.dir
+D:/project/vessel/build/CMakeFiles/edit_cache.dir
+D:/project/vessel/build/CMakeFiles/rebuild_cache.dir
+D:/project/vessel/build/CMakeFiles/LION_UTILS_autogen.dir
+D:/project/vessel/build/CMakeFiles/LION_GUI_autogen.dir
+D:/project/vessel/build/CMakeFiles/LION_autogen.dir
