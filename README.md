@@ -8,3 +8,5 @@
   
   -如果想将处理得到数据显示在第一个子窗口中，将显示交互部分中的convertCVMatToVtkImageData(img1,true)中的img1替换为想要显示的数据即可。
                      显示在第二个子窗口中，将显示交互部分中的convertCVMatToVtkImageData(img2,true)中的img2替换为想要显示的数据即可。
+
+已经构建github仓库，主支master
