@@ -1,11 +1,13 @@
 //自定义库
-#include "reader.h"
+//#include "reader.h"
 #include "transfer.h"
 #include "shower.h"
 #include "vtkSliceViewer.h"
-#include "vtkVolumeViewer.h"
+//#include "vtkVolumeViewer.h"
+/*
 #include "dialog.h"
 #include "mainwindow.h"
+*/
 
 //系统库
 #include <iostream>
@@ -13,7 +15,7 @@
 //VTK库
 #include "vtkPointPickCallback.h"
 #include "vtkInteractorStyleTrackballCamera.h"
-#include "itkImageRegionConstIterator.h"
+//#include "itkImageRegionConstIterator.h"
 #include "vtkImageActor.h"
 #include "vtkInteractorStyleImage.h"
 #include "vtkAxesActor.h"
@@ -22,17 +24,19 @@
 //OpenCV库
 #include "opencv2/opencv.hpp"
 
+/*
 //Qt库
 #include <QApplication>
 #include <QDialog>
-
+#include <QtWidgets>
+*/
 
 using namespace cv;
 
 
 void GetImageInfo(vtkImageData* img)
 {
-    std::cout << std::endl;
+    std::cout << std::endl; 
     std::cout << "/************VTK Image Info***********/" << std::endl;
     std::cout << "origin:" << img->GetOrigin()[0] << "," << img->GetOrigin()[1] << "," << img->GetOrigin()[2] << std::endl;
     std::cout << "space:" << img->GetSpacing()[0] << "," << img->GetSpacing()[1] << "," << img->GetSpacing()[2] << std::endl;
@@ -43,9 +47,8 @@ void GetImageInfo(vtkImageData* img)
 
 int main(int argc,char** argv)
 {
-
-    char path1[] = "C:/Users/LION/Desktop/1.jpg";
-    char path2[] = "C:/Users/LION/Desktop/2.jpg";
+    char path1[] = "./images/035_0000.jpg";
+    char path2[] = "./images/035_0005.jpg";
 
     vtkSmartPointer<vtkAxesActor> axes = vtkSmartPointer<vtkAxesActor>::New();
     axes->SetPosition(0,0,0);
@@ -98,8 +101,7 @@ int main(int argc,char** argv)
     observer->SetVTKActors(actor1,actor2);
     observer->SetRenderers(renderer1,renderer2);
     observer->SetInteractor(interactor);
-
-
+    
     interactor->AddObserver(vtkCommand::LeftButtonPressEvent, observer);
 
 
