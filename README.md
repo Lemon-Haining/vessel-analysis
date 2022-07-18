@@ -15,4 +15,10 @@
 其中主要使用的环境是VTK+Opencv+ITK，具体的依赖的库详见Cmakelists.txt，运行代码之前请先配置好相关的编译器和依赖库，这一部分比较耗时耗力的。
   
 7.13更新  
-暂时写了一个的么形式的比较简单的冠脉3D重建，相关部分的代码在./utils/observer中，后续会用到其中部分，并且会做出大改，这一部分知识中间部分
+暂时写了一个的理想形式的比较简单的冠脉3D重建，相关部分的代码在./utils/observer中，后续会用到其中部分，并且会做出大改，这一部分知识中间部分  
+
+7.18更新  
+对于3D冠脉重建的算法进行了改进，当前能够重建的理想模型冠脉是圆形截面，同时可以实现半径的变化，代码参考了vtk-example  
+https://kitware.github.io/vtk-examples/site/Cxx/VisualizationAlgorithms/TubesFromSplines/  
+图片如下所示：  
+![理想冠脉的重建](https://github.com/Lemon-Haining/vessel-analysis.git/images/035_0000.jpg)
