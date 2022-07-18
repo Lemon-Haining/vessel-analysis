@@ -21,4 +21,4 @@
 对于3D冠脉重建的算法进行了改进，当前能够重建的理想模型冠脉是圆形截面，同时可以实现半径的变化，代码参考了vtk-example  
 https://kitware.github.io/vtk-examples/site/Cxx/VisualizationAlgorithms/TubesFromSplines/  
 图片如下所示：  
-![理想冠脉的重建](https://github.com/Lemon-Haining/vessel-analysis.git/images/035_0000.jpg)
+![理想冠脉的重建](https://github.com/Lemon-Haining/vessel-analysis.git/blob/master/images/035_0000.jpg)
